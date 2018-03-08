@@ -1,0 +1,46 @@
+1520503058274	geckodriver	INFO	geckodriver 0.19.1
+1520503058287	geckodriver	INFO	Listening on 127.0.0.1:10279
+1520503061391	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MSIGT6~1\\AppData\\Local\\Temp\\rust_mozprofile.v0ni9AJEKaMg"
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520503063715	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520503066875	Marionette	INFO	Listening on port 10291
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520503067820	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Child 12556, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+[Child 12556, Chrome_Chil[Child 22088, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26220, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ort 10399
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520503096521	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[Ch[Child 28776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 28776, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 24624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520503145901	geckodriver	INFO	geckodriver 0.19.1
+1520503145916	geckodriver	INFO	Listening on 127.0.0.1:10602
+1520503149018	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MSIGT6~1\\AppData\\Local\\Temp\\rust_mozprofile.XHHyPKLVHL5j"
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520503150759	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520503152714	Marionette	INFO	Listening on port 10614
+1520503152844	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
