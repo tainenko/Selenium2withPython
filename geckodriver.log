@@ -44,3 +44,27 @@ Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\open
 1520503152714	Marionette	INFO	Listening on port 10614
 1520503152844	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1520511042728	geckodriver	INFO	geckodriver 0.19.1
+1520511042739	geckodriver	INFO	Listening on 127.0.0.1:32037
+1520511045879	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MSIGT6~1\\AppData\\Local\\Temp\\rust_mozprofile.qbb68dr2duPX"
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520511047735	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520511049541	Marionette	INFO	Listening on port 32046
+1520511049672	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+1520511092694	geckodriver	INFO	geckodriver 0.19.1
+1520511092703	geckodriver	INFO	Listening on 127.0.0.1:32145
+1520511095840	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MSIGT6~1\\AppData\\Local\\Temp\\rust_mozprofile.IJJTce50LBLd"
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520511097237	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520511098695	Marionette	INFO	Listening on port 32156
+1520511099117	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined

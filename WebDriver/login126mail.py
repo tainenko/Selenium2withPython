@@ -17,7 +17,7 @@ driver.find.element_by_id("loginBtn").click()
 所以我們要先進入frame/iframe表單，然後再使用xpath定位
 '''
 #for Firefox
-driver.switch_to_frame("x-URS-iframe")
+driver.switch_to.frame("x-URS-iframe")
 #for Chrome
 #driver.switch_to_frame(0)
 time.sleep(5)
