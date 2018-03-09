@@ -442,3 +442,89 @@ Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\open
 
 ###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
 
+1520583428765	geckodriver	INFO	geckodriver 0.19.1
+1520583428779	geckodriver	INFO	Listening on 127.0.0.1:13925
+1520583431899	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MSIGT6~1\\AppData\\Local\\Temp\\rust_mozprofile.4tmOmPpnlp2a"
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520583434220	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520583436802	Marionette	INFO	Listening on port 13936
+1520583437401	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: http://suggestion.baidu.com/su?wd=se&json=1&p=3&sid=1459_22533_21091_22158&req=2&csor=2&pwd=s&cb=jQuery1102082126711904031_1520583438961&_=1520583438964, line 1: TypeError: jQuery1102082126711904031_1520583438961 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=s&json=1&p=3&sid=1459_22533_21091_22158&req=2&csor=1&cb=jQuery1102082126711904031_1520583438961&_=1520583438963, line 1: TypeError: jQuery1102082126711904031_1520583438961 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=sel&json=1&p=3&sid=1459_22533_21091_22158&req=2&csor=3&pwd=se&cb=jQuery1102082126711904031_1520583438961&_=1520583438965, line 1: TypeError: jQuery1102082126711904031_1520583438961 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=sele&json=1&p=3&sid=1459_22533_21091_22158&req=2&csor=4&pwd=sel&cb=jQuery1102082126711904031_1520583438961&_=1520583438966, line 1: TypeError: jQuery1102082126711904031_1520583438961 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=selen&json=1&p=3&sid=1459_22533_21091_22158&req=2&csor=5&pwd=sele&cb=jQuery1102082126711904031_1520583438961&_=1520583438967, line 1: TypeError: jQuery1102082126711904031_1520583438961 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=seleni&json=1&p=3&sid=1459_22533_21091_22158&req=2&csor=6&pwd=selen&cb=jQuery1102082126711904031_1520583438961&_=1520583438968, line 1: TypeError: jQuery1102082126711904031_1520583438961 is not a function
+[Parent 28180, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1520583998524	geckodriver	INFO	geckodriver 0.19.1
+1520583998540	geckodriver	INFO	Listening on 127.0.0.1:14899
+1520584001648	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MSIGT6~1\\AppData\\Local\\Temp\\rust_mozprofile.UVmMGIl5I48X"
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520584003302	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520584005400	Marionette	INFO	Listening on port 14912
+1520584005523	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(38880,129) Code: 0x80070057 format 0
+1520584352439	geckodriver	INFO	geckodriver 0.19.1
+1520584352453	geckodriver	INFO	Listening on 127.0.0.1:15521
+1520584355544	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MSIGT6~1\\AppData\\Local\\Temp\\rust_mozprofile.q6SUARbaVriI"
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520584357289	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520584359596	Marionette	INFO	Listening on port 15533
+1520584359885	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(38880,129) Code: 0x80070057 format 0
+1520585059765	geckodriver	INFO	geckodriver 0.19.1
+1520585059777	geckodriver	INFO	Listening on 127.0.0.1:16649
+1520585062898	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MSIGT6~1\\AppData\\Local\\Temp\\rust_mozprofile.xLaKvCiUM9eL"
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520585064515	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520585066630	Marionette	INFO	Listening on port 16661
+1520585066765	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(38880,129) Code: 0x80070057 format 0
+[Parent 11440, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 26092, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1520585117313	geckodriver	INFO	geckodriver 0.19.1
+1520585117323	geckodriver	INFO	Listening on 127.0.0.1:16787
+1520585120443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MSIGT6~1\\AppData\\Local\\Temp\\rust_mozprofile.WO7gT6Ar8VGV"
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520585122334	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520585125088	Marionette	INFO	Listening on port 16799
+1520585125967	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+[GFX1-]: [D2D1.1] 4CreateBitmap failure Size(38880,129) Code: 0x80070057 format 0
+JavaScript error: http://suggestion.baidu.com/su?wd=webd&json=1&p=3&sid=1426_21098_22158&req=2&csor=4&pwd=web&cb=jQuery110205703032775755713_1520585127485&_=1520585127490, line 1: TypeError: jQuery110205703032775755713_1520585127485 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=webdr&json=1&p=3&sid=1426_21098_22158&req=2&csor=5&pwd=webd&cb=jQuery110205703032775755713_1520585127485&_=1520585127491, line 1: TypeError: jQuery110205703032775755713_1520585127485 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=webdri&json=1&p=3&sid=1426_21098_22158&req=2&csor=6&pwd=webdr&cb=jQuery110205703032775755713_1520585127485&_=1520585127492, line 1: TypeError: jQuery110205703032775755713_1520585127485 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=webdrive&json=1&p=3&sid=1426_21098_22158&req=2&csor=8&pwd=webdriv&cb=jQuery110205703032775755713_1520585127485&_=1520585127494, line 1: TypeError: jQuery110205703032775755713_1520585127485 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=webdriver&json=1&p=3&sid=1426_21098_22158&req=2&csor=9&pwd=webdrive&cb=jQuery110205703032775755713_1520585127485&_=1520585127495, line 1: TypeError: jQuery110205703032775755713_1520585127485 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=webdriv&json=1&p=3&sid=1426_21098_22158&req=2&csor=7&pwd=webdri&cb=jQuery110205703032775755713_1520585127485&_=1520585127493, line 1: TypeError: jQuery110205703032775755713_1520585127485 is not a function
+[Parent 22168, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 13408, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
