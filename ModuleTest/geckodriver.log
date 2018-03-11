@@ -145,3 +145,46 @@ Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\open
 1520757382271	Marionette	INFO	Listening on port 58716
 1520757383212	Marionette	WARN	TLS certificate errors will be ignored for this session
 1520757408682	addons.productaddons	WARN	Failed downloading via XHR, status: 0, reason: error
+[Parent 23240, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/commo1520757464458	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MSIGT6~1\\AppData\\Local\\Temp\\rust_mozprofile.0fV5oKyM2hOa"
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520757466104	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520757468244	Marionette	INFO	Listening on port 58874
+1520757468648	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: http://suggestion.baidu.com/su?wd=py&json=1&p=3&sid=1467_21088_17001_20929&req=2&csor=2&pwd=p&cb=jQuery110205984106307823122_1520757470719&_=1520757470721, line 1: TypeError: jQuery110205984106307823122_1520757470719 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=p&json=1&p=3&sid=1467_21088_17001_20929&req=2&csor=1&cb=jQuery110205984106307823122_1520757470719&_=1520757470720, line 1: TypeError: jQuery110205984106307823122_1520757470719 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=pyth&json=1&p=3&sid=1467_21088_17001_20929&req=2&csor=4&pwd=pyt&cb=jQuery110205984106307823122_1520757470719&_=1520757470723, line 1: TypeError: jQuery110205984106307823122_1520757470719 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=pytho&json=1&p=3&sid=1467_21088_17001_20929&req=2&csor=5&pwd=pyth&cb=jQuery110205984106307823122_1520757470719&_=1520757470724, line 1: TypeError: jQuery110205984106307823122_1520757470719 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=python&json=1&p=3&sid=1467_21088_17001_20929&req=2&csor=6&pwd=pytho&cb=jQuery110205984106307823122_1520757470719&_=1520757470725, line 1: TypeError: jQuery110205984106307823122_1520757470719 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=pyt&json=1&p=3&sid=1467_21088_17001_20929&req=2&csor=3&pwd=py&cb=jQuery110205984106307823122_1520757470719&_=1520757470722, line 1: TypeError: jQuery110205984106307823122_1520757470719 is not a function
+1520757474539	geckodriver	INFO	geckodriver 0.19.1
+1520757474556	geckodriver	INFO	Listening on 127.0.0.1:58956
+1520757477622	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MSIGT6~1\\AppData\\Local\\Temp\\rust_mozprofile.2hzmZBZoQeTY"
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520757479079	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520757481394	Marionette	INFO	Listening on port 58968
+1520757481794	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: http://suggestion.baidu.com/su?wd=%E4%B8%AD%E6%96%87&json=1&p=3&sid=1442_21102_17001&req=2&csor=2&pwd=%E4%B8%AD&cb=jQuery110200961744525168089_1520757483115&_=1520757483118, line 1: TypeError: jQuery110200961744525168089_1520757483115 is not a function
+JavaScript error: http://suggestion.baidu.com/su?wd=%E4%B8%AD&json=1&p=3&sid=1442_21102_17001&req=2&csor=1&cb=jQuery110200961744525168089_1520757483115&_=1520757483117, line 1: TypeError: jQuery110200961744525168089_1520757483115 is not a function
+1520757486016	geckodriver	INFO	geckodriver 0.19.1
+1520757486032	geckodriver	INFO	Listening on 127.0.0.1:59036
+1520757489118	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\MSIGT6~1\\AppData\\Local\\Temp\\rust_mozprofile.Si2AAN290Bjc"
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520757490727	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\MSI GT60\AppData\Local\openvr\openvrpaths.vrpath
+1520757492911	Marionette	INFO	Listening on port 59047
+1520757493307	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://s1.bdstatic.com/r/www/cache/static/plugins/every_cookie_4644b13.js, line 4: ReferenceError: c is not defined
+JavaScript error: http://suggestion.baidu.com/su?wd=text&json=1&p=3&sid=1430_21107_17001_20928&req=2&csor=4&pwd=tex&cb=jQuery11020498771257732067_1520757494622&_=1520757494626, line 1: TypeError: jQuery11020498771257732067_1520757494622 is not a function
